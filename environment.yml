@@ -1,0 +1,9 @@
+name: fortran
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - fortls
+  - fpm
+  - gfortran
+  - findent

@@ -1,0 +1,19 @@
+{
+    "fortran.fortls.path": "/home/aragong/miniconda3/envs/fortran/bin/fortls",
+    "fortran.linter.includePaths": [
+        "/usr/include/**",
+        "${workspaceFolder}/include/**"
+    ],
+    "fortran.linter.extraArgs": [
+        "-fdefault-real-8",
+        "-fdefault-double-8",
+        "-Wunused-variable",
+        "-Wunused-dummy-argument"
+    ],
+    "fortran.linter.compiler": "gfortran",
+    "fortran.linter.compilerPath": "/home/aragong/miniconda3/envs/fortran/bin/gfortran",
+    "fortran.formatting.formatter": "findent",
+    "fortran.formatting.path": "/home/aragong/miniconda3/envs/fortran/bin",
+    "fortran.formatting.findentArgs": [],
+    "fortran.formatting.fprettifyArgs": []
+}
