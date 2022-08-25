@@ -5,7 +5,6 @@ channels:
 dependencies:
   - fortls
   - fpm
-  - gfortran
   - findent
   - jupyter-notebook
   - lfortran
