@@ -8,6 +8,8 @@ learn fortran by creating a simple fortran skeleton
     2. fpm - Fortran Package Manager
     3. gfortran - Fortran compiler
     4. findent - Formatter
+    5. jupyter-notebooks - app to open interactive web-editor
+    *. lfortran - Interactive compiler to use fortran in Jupyter-notebooks
 
 
 In `.vscode/settings.json` is saved the configuration of `fortls`

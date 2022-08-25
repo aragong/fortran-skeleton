@@ -7,3 +7,5 @@ dependencies:
   - fpm
   - gfortran
   - findent
+  - jupyter-notebook
+  - lfortran
